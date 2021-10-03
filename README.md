@@ -8,7 +8,7 @@
 <h3>📊 Github Stats</h3>
 <br/>
 <p align="center">
-   <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=rshukla12&" />
+   <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=rshukla12&" /><br\>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rshukla12&show_icons=true&locale=en"/>
 </p>
 <!-- <br/>
