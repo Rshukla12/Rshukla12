@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Ravi Shukla <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-<h2 align="center">Currently Learning Full-Stack development from Masai School </h2>
+<h2 align="center">Currently Learning Full-Stack Web Development from Masai School </h2>
 
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
 
@@ -34,14 +34,15 @@
 <h3>📊 Github Stats</h3>
 <br/>
 <p align="center">
-   <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=rshukla12&" /> <br \>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rshukla12&show_icons=true&locale=en"/>
+   <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=rshukla12&theme=dark" /> <br \>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rshukla12&show_icons=true&locale=en&theme=dark"/>
 </p>
 
 <h3 align="center">
  Show some ❤️ by starring some of the repositories!
 </h3>
 <br>
+
 <h3 align="center"> 
   Visitor count <br>
   <img src="https://profile-counter.glitch.me/rshukla12/count.svg" />
