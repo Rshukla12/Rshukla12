@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **rshuklawork@gmail.com**
 
+- Connect with me - **[LinkedIn](https://www.linkedin.com/in/rshukla12/)**
+
 <br/>
 
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Languages and Tools:</p> 
