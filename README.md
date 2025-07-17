@@ -4,10 +4,10 @@ Senior Software Engineer with 3+ years of experience in distributed systems, AI,
 
 ## About Me
 
-- 👨‍💻 My Portfolio: **[Ravi Shukla](https://ravishukla.me)**
+- 👨‍💻 My Portfolio: **[Ravi Shukla](https://rshukla12.github.io/)**
 - 🌱 Currently exploring **AI integration and vector search technologies**
 - 📫 Reach me at: **rshuklawork@gmail.com**
-- 📱 Connect with me: **[LinkedIn](https://www.linkedin.com/in/ravishukla12/)** | **[GitHub](https://github.com/Rshukla12)** | **[LeetCode](https://leetcode.com/RaviShukla12)**
+- 📱 Connect with me: **[LinkedIn](https://www.linkedin.com/in/rshukla12/)** | **[GitHub](https://github.com/Rshukla12)** | **[LeetCode](https://leetcode.com/RaviShukla12)**
 
 ## Languages and Tools
 
