@@ -12,7 +12,7 @@ Senior Software Engineer with 3+ years of experience in distributed systems, AI,
 ## Languages and Tools
 
 - **Languages**: Java, JavaScript, Python
-- **Frameworks/Tools**: Node.js, Express, Kafka, Redis, MongoDB, Elasticsearch, Vector Search
+- **Frameworks/Tools**: Elasticsearch, Node.js, Kafka, Redis, MongoDB, ELK, Vector Search
 - **DevOps**: AWS EC2, Git, GitHub
 - **Concepts**: System Design, Data Structures & Algorithms, REST APIs, AI Integration, Debugging
 
@@ -23,6 +23,7 @@ Senior Software Engineer with 3+ years of experience in distributed systems, AI,
 Show some ❤️ by starring my repositories!
 
 <h3 align="center"> 
-  Visitor count <br>
-  <img src="https://profile-counter.glitch.me/rshukla12/count.svg" />
+  <a href="https://github.com/Rshukla12/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Rshukla12&style=for-the-badge">
+  </a>
 </h3>
